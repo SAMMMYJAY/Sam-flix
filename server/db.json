@@ -1,0 +1,214 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "description": "Two imprisoned men bond over a number of years...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "year": 1972,
+      "description": "The aging patriarch of an organized crime dynasty...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "description": "When the menace known as The Joker emerges...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 4,
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "description": "The lives of two mob hitmen, a boxer, a gangster...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 5,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 6,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 7,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 8,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 9,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 10,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 11,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 12,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 13,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 14,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 15,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 16,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 17,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 18,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 19,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 20,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 21,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 22,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 23,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 24,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 25,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 26,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 27,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 28,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 29,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    },
+    {
+      "id": 30,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events...",
+      "posterUrl": "https://via.placeholder.com/300x450"
+    }
+  ]
+}
